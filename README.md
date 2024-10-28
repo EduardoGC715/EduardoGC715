@@ -4,7 +4,7 @@
 🎓 Passionate about app development, cybersecurity, and databases  
 🎨 Balancing technology with interests in art, sports, and music  
 
-I'm on a journey to create impactful projects and leave a meaningful legacy in the tech world. Let's connect and explore the world of technology together!
+I'm on a journey to create impactful projects and leave a meaningful legacy in the tech world.
 
 ## 📝 About Me
 
