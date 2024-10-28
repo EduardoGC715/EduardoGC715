@@ -22,8 +22,7 @@ Here are some of my contributions to the CVE database, where I’ve worked on id
 
 | CVE ID          | Description                              | Severity  | Date Reported | Link                                   |
 |-----------------|------------------------------------------|-----------|---------------|----------------------------------------|
-| CVE-2024-50602  | Vulnerability in [software/component]    | Pending      | 2024-10-27    | [Link to CVE]([https://cve.mitre.org/](https://www.cve.org/CVERecord?id=CVE-2024-50602#cna-8254265b-2729-46b6-b9e3-3dfca2d5bfca)) |
-
+| CVE-2024-50602  | Vulnerability in [Libexpat](https://libexpat.github.io/)    | Pending      | 2024-10-27    | [Link to CVE](https://www.cve.org/CVERecord?id=CVE-2024-50602#cna-8254265b-2729-46b6-b9e3-3dfca2d5bfca)|
 
 > Feel free to reach out if you're interested in collaborating on vulnerability analysis or security-focused projects.
 
