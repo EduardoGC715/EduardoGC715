@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name] 
+# 👋 Hi there! I'm José Eduardo Gutiérrez Conejo
 
 🚀 Final-year Software Engineering student at Instituto Tecnológico de Costa Rica  
 🎓 Passionate about app development, cybersecurity, and databases  
