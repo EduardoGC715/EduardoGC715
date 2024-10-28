@@ -31,8 +31,3 @@ Here are some of my contributions to the CVE database, where I’ve worked on id
 - **[Atta-bot-STEM](https://github.com/jcbrenes/Atta-Bot-STEM)**: Project from the Multiple Robotics Research Group (GIRoM) where my main role was the development of the educational application for the Atta-Bot.
 - **[Kerberos System](https://github.com/EduardoGC715/sistema_kerberos)**: Project focused on cryptography and user authentication using the Kerberos protocol with an implementation in Python and Firebase.
 - **[PirieBot](https://github.com/EduardoGC715/PirieBot)**: A Telegram bot that shares information about courses and activities at the Casa de la Ciudad cultural center.
-
-## 🤝 Let's Connect
-
-- LinkedIn: [Your LinkedIn](www.linkedin.com/in/josé-eduardo-gutiérrez-conejo-615b912ba)
-- GitHub: [Your GitHub Profile](https://github.com/EduardoGC715)
