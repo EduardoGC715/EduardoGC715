@@ -2,7 +2,7 @@
 
 🚀 Final-year Software Engineering student at Instituto Tecnológico de Costa Rica  
 🎓 Passionate about app development, cybersecurity, and databases  
-🎨 Balancing technology with interests in art, sports, and music  
+🎨 Balancing technology with interests in art, sports, music and gaming 
 
 I'm on a journey to create impactful projects and leave a meaningful legacy in the tech world.
 
