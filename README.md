@@ -22,7 +22,7 @@ Here are some of my contributions to the CVE database, where I’ve worked on id
 
 | CVE ID          | Description                              | Severity  | Date Reported | Link                                   |
 |-----------------|------------------------------------------|-----------|---------------|----------------------------------------|
-| CVE-2024-50602  | Vulnerability in [Libexpat](https://libexpat.github.io/)    | 5.9      | 2024-10-27    | [Link to CVE](https://www.cve.org/CVERecord?id=CVE-2024-50602#cna-8254265b-2729-46b6-b9e3-3dfca2d5bfca)|
+| CVE-2024-50602  | Vulnerability in [Libexpat](https://libexpat.github.io/)    | 5.9      | 2024-10-27    | [Link to CVE]([https://www.cve.org/CVERecord?id=CVE-2024-50602#cna-8254265b-2729-46b6-b9e3-3dfca2d5bfca](https://www.cve.org/CVERecord?id=CVE-2024-50602))|
 
 > Link to [press release](https://www.tec.ac.cr/hoyeneltec/2024/11/28/estudiantes-tec-fortalecen-ciberseguridad-global-evidenciar-vulnerabilidad)
 
